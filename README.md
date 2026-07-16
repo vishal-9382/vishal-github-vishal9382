@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://github.com/vishal-9382/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/vishal-mali9382"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/vishal-9382/vishalmali4315.github.io"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://vishal-9382.github.io/vishalmali4315.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
     <a href="https://instagram.com/vishal_mali_9382"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:vishalmali4315@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -78,8 +78,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-9382&theme=tokyonight&hide_border=true&background=0D1117" alt="Vishal's GitHub streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-9382&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Badges & Achievements
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <h4>GitHub Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishal-9382&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Vishal's Trophies" />
+  </a>
   <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-9382&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Vishal's Trophies" /></a>
+
+  <!-- Competitive Programming & Developer Badges -->
+  <h4>Coding Profiles</h4>
+  <p>
+    <a href="https://leetcode.com/vishal-9382"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.hackerrank.com/vishal-9382"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+    <a href="https://www.kaggle.com/vishal-9382"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  </p>
+  <br>
+
+  <!-- GitHub Badges (Generic visual achievements) -->
+  <h4>Open Source & Developer Achievements</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge" alt="Open Source Love" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained" />
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome" />
+  </p>
 </div>
 
 <br>
