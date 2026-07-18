@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <video src="Asset.mp4" autoplay loop muted playsinline width="100%"></video>
+  <video src="./git_updation/Asset.mp4" autoplay loop muted playsinline width="100%" controls></video>
 
   <br><br>
 
